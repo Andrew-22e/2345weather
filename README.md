@@ -32,7 +32,8 @@
   - 文件：`赣州weather.html`
   - 图例：每个月份的天气类型（如“阴~晴”、“多云~小雨”）与出现次数
   - 演示：
-    - ![动态图示意图] <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7e36725f-18cc-4c13-a6d0-6f49305f9f56" />
+    - ![静态图示意图]<img width="1251" height="746" alt="image" src="https://github.com/user-attachments/assets/7f43ee03-9b38-4e2a-a54c-85125947eae5" />
+
 
     _注：实际图表请打开本地 HTML 文件查看交互效果_
 
