@@ -2,7 +2,6 @@
 
 一个基于 Python 的数据爬取 + 分析 + Echarts 可视化项目，用于展示 **2024 年赣州历史天气变化**，支持并发爬虫、动态图表时间轴、多维度天气状况分类等功能。
 
-![Demo Preview](https://assets.pyecharts.org/assets/img/logo.png)
 
 ---
 
@@ -33,7 +32,8 @@
   - 文件：`赣州weather.html`
   - 图例：每个月份的天气类型（如“阴~晴”、“多云~小雨”）与出现次数
   - 演示：
-    - ![动态图示意图](https://pyecharts.org/static/images/thumbnail-bar-basic.png)  
+    - ![动态图示意图] <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7e36725f-18cc-4c13-a6d0-6f49305f9f56" />
+
     _注：实际图表请打开本地 HTML 文件查看交互效果_
 
 ---
